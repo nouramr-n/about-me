@@ -11,5 +11,4 @@ currently learing and improving my portfolio
   ---
   
 ###find me around the web
--[linkedin](https://www.linkedin.com/in/NourElshazly)
-
+-[linkedin](https://www.linkedin.com/in/nour-e-541a05368/overlay/about-this-profile/)
