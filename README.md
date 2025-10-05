@@ -13,10 +13,12 @@ i'm looking to collaborate on
 
 <h2>tech stack</h2>
 <p> HTML | CSS | javascript | github|</p>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
   ---
  
 ###find me around the web
 -[linkedin](https://www.linkedin.com/in/nour-e-541a05368/overlay/about-this-profile/)
  </div>
+ 
  
