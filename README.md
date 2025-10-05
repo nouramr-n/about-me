@@ -1,19 +1,22 @@
-<div align="center"
-  style="background-color:#E3F2FD;"
-  "border-raduis:20px;"
-# hi , I'm Nour
-Front-End Developer | Learning & Building Projects Everyday
-**i'm currently learing and improving my portfolio
-**i'm looking to collaborate on 
-
+ # hi , I'm Nour
+ <div align="center"
+  style="background-color:#E3F2FD;
+   border-raduis:20px;">
+  
+ <h1> Nour Elshazly </h1>
+<p>Front-End Developer | Learning & Building Projects i'm currently learing and improving my portfolio
+<br>
+i'm looking to collaborate on 
+</p>
 ---
 
 
-### tech stack
-- HTML | CSS | javascript | github|
+<h2>tech stack</h2>
+<p> HTML | CSS | javascript | github|</p>
 
   ---
-  
+ 
 ###find me around the web
 -[linkedin](https://www.linkedin.com/in/nour-e-541a05368/overlay/about-this-profile/)
-</div>
+ </div>
+ 
