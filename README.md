@@ -6,7 +6,7 @@
  <h1> Nour Elshazly </h1>
 <p>Front-End Developer | Learning & Building Projects i'm currently learing and improving my portfolio
 <br>
-i'm looking to collaborate on 
+I'm looking for a partner to collaborate with.
 </p>
 ---
 
